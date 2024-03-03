@@ -1,1 +1,1 @@
-this repositery is about the landingpage -blah blah
+this repositery is about the backend server 
